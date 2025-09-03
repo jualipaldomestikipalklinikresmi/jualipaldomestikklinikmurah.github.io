@@ -10,7 +10,6 @@ Ruang Ipal Klinik,Ipal Rs,Ipal Rsud,Skema Ipal Klinik,Sistem Ipal Klinik
 Ipal Sederhana Untuk Klinik,Ukuran Ipal Klinik,Vendor Ipal Klinik,Klinik Wajib Ipal,Ipal Wc
 Ipal Sederhana
 
-<!DOCTYPE html>
 <html lang="id">
 <head>
   <meta charset="utf-8" />
@@ -263,7 +262,7 @@ Ipal Sederhana
       </div>
 
       <div class="gallery" style="margin-top:1rem">
-        <div class="ph">Foto Proyek 1</div>
+        <div class="ph">https://media.karousell.com/media/photos/products/2024/3/22/kontraktor_instalasi_pengolaha_1711123424_a07f86e7_progressive</div>
         <div class="ph">Foto Proyek 2</div>
         <div class="ph">Foto Proyek 3</div>
       </div>
